@@ -1,9 +1,6 @@
-# NativeBase TypeScript Expo Template
+# Desafio ACAT Gama Academy semana 2
 
-The official NativeBase TypeScript template for [Expo](https://docs.expo.io/)
+Utilizando expo, typeScript, NativeBase, Apollo client, Redux (tollkit), consumindo api Rick and Morty (graphql). 
 
-## Usage
+## Turma 05 React Native (Tutor: Douglas Morais)
 
-```sh
-expo init my-app --template @native-base/expo-template-typescript
-```
